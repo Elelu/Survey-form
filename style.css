@@ -1,0 +1,54 @@
+body, html {
+  margin: 0;
+  padding: 20px 2%;
+  box-sizing: border-box;
+  min-width:100%;
+  min-height:100%;
+  font: Arial 14px;
+  background-color: #f6daff;
+  text-align: left;
+  font-family: 'Montserrat';
+}
+
+.container-fluid{
+ 
+}
+
+#heading-section{
+text-align:center;
+}
+
+.card{
+  margin-top: 30px;
+  padding: 20px;
+  box-shadow:0 0 15px 0;
+  border-radius: 10px; 
+}
+
+.header-card{
+border-top-style: outset;
+border-top-color: #0013a9;
+border-top-width:10px; 
+}
+
+span{
+
+color: #ff3705;}
+
+input{
+border-width: 0 0 3px 0;
+border-radius: 0;
+width: 50%;
+margin-top:100px;
+border-color: #d4d4d4
+}
+
+textarea{
+  margin-top: 30px;
+  border-width: 0 0 2px 0;
+}
+
+#button{
+margin-top: 30px;
+width: 150px; 
+}
